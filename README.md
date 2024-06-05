@@ -39,3 +39,8 @@ O projeto é composto pelos seguintes arquivos:
 - Substitua o arquivo profile-photo.jpg na raiz do projeto com sua própria foto. Certifique-se de que o nome do arquivo e a extensão estão corretos.
 3. Atualize os links de contato
 - No arquivo index.html, atualize os links de contato para seus próprios perfis de email, LinkedIn e GitHub.
+
+## Autor
+
+### Rodrigo Silva
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo em rodericus@alu.ufc.br

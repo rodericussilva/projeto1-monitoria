@@ -4,7 +4,7 @@ Este é um projeto simples de uma página de perfil pessoal, ideal para desenvol
 
 ## Sobre o Projeto
 
-Este projeto é resultado do mini-curso introdutório ao desenvolvimento web com HTML e CSS, destinado aos alunos do primeiro semestre da disciplina de construção de páginas para internet na Unichristus, da qual sou monitor. O objetivo do mini-curso é servir como material de apoio tendo em vista proporcionar uma base em HTML e CSS, permitindo que os alunos criem suas próprias páginas web.
+Este projeto é resultado do mini-curso introdutório ao desenvolvimento web com HTML e CSS, destinado aos alunos do primeiro semestre da disciplina de construção de páginas para internet na Unichristus, da qual sou monitor. O objetivo do mini-curso é servir como material de apoio tendo em vista proporcionar uma base em HTML e CSS, permitindo que os alunos criem suas próprias páginas web. [Clique aqui](https://rodericussilva.github.io/projeto1-monitoria/) para visualizar a página.
 
 ## Estrutura do Projeto
 

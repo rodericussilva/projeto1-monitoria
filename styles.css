@@ -2,7 +2,6 @@
 
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
   margin: 0;
   padding: 0;
   background-color: #1e1e1e;
@@ -73,11 +72,44 @@ footer {
   color: #61dafb;
   text-align: center;
   padding: 1rem 0;
-  bottom: 0;
-  width: 100%;
 }
 
 #contact i {
   margin-right: 0.5rem;
   color: #61dafb;
+}
+
+.projects-container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.project {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.project img {
+  width: 50%;
+  height: auto;
+  border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+  .projects-container {
+    display: table;
+    width: 100%;
+  }
+
+  .project {
+    display: table-cell;
+    vertical-align: top;
+    width: 33%;
+    padding: 0 10px;
+  }
+
+  .project img {
+    width: 100%;
+    height: auto;
+  }
 }
